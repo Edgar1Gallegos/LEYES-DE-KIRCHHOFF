@@ -10,6 +10,6 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 2. Objetivos 
 
-+*Determinar el cumplimiento de las leyes de Kirchoff en un circuito eléctrico 
+*Determinar el cumplimiento de las leyes de Kirchoff en un circuito eléctrico 
 
-+*Medir las caorrientes y los voltajes que circulan por el circuito
+*Medir las caorrientes y los voltajes que circulan por el circuito
