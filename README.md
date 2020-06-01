@@ -13,7 +13,7 @@ Kirchhoff de Corrientes.
 
 * Determinar el cumplimiento de las leyes de Kirchoff en un circuito eléctrico 
 
-* Medir las caorrientes y los voltajes que circulan por el circuito
+* Medir las corrientes y los voltajes que circulan por el circuito
 
 
 3. ESTADO DEL ARTE
