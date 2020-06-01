@@ -66,6 +66,21 @@ Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el
 
 Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo de técnicas que nos permitieron resolver circuitos complejos de manera rápida y efectiva, además, estas leyes nos permitieron analizar dichos problemas por medio de dos técnicas: Mallas y Nodos.
 
+9. CONCLUSIONES 
+
+
+
+10. RECOMENDACIONES 
+
+
+11. CRONOGRAMA 
+
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/CRONOGRAMA.jpg) 
+
+12. BIBLIOGRAFÍA 
+
+
+
 
 
 
