@@ -29,3 +29,17 @@ Los creadores afirman que no son robots tradicionales sino se trata de un organi
 
 
 
+
+
+
+
+
+
+5. DIAGRAMAS 
+
+
+
+
+
+
+
