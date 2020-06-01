@@ -25,7 +25,7 @@ Los creadores afirman que no son robots tradicionales sino se trata de un organi
 
 Las leyes de Kirchhoff fueron formuladas por el físico Gustav Kirchhoff en 1845. Es responsable de 2 leyes fundamentales en teoría clásica de circuitos eléctricos. Estas leyes permiten resolver los circuitos electrónicos utilizando un conjunto de ecuaciones y son ampliamente usadas en ingeniería eléctrica e ingeniería electrónica.
 
-## Enunciado de la primera ley de Kirchhoff
+##### Enunciado de la primera ley de Kirchhoff
 
 En un circuito eléctrico, es común que se generen nodos de corriente. Un nodo es el punto del circuito donde se unen más de un terminal de un componente eléctrico. Se puede generalizar la primera ley de Kirchhoff diciendo que «la suma de las corrientes entrantes a un nodo son iguales a la suma de las corrientes salientes en él».
 La razón por la cual se cumple esta ley se entiende perfectamente en forma intuitiva si uno considera que la corriente eléctrica es debida a la circulación de electrones de un punto a otro del circuito.
