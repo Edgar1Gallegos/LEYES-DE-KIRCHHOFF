@@ -68,13 +68,7 @@ Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo
 
 9. CONCLUSIONES 
 
-* Se aprendió las diferentes aplicaciones de un multímetro para medir la intensidad de corriente, voltaje y resistencias; igual que las condiciones que hay que tener en el circuito antes de utilizar el multímetro para que no se cometan errores en la medición y obtener un buen resultado.
-
 * Concluimos que es posible verificar y comprobar las leyes de Kirchhoff para circuitos resistivos tanto teóricamente como en la práctica. Ademas conocimos las aplicaciones de un multímetro para medir la intensidad de corriente, voltaje y resistencias; igual que las condiciones que hay que tener en el circuito antes de utilizar el multímetro para que no se cometan errores en la medición y obtener un buen resultado.
-
-* 
-
-
 
 10. RECOMENDACIONES 
 
