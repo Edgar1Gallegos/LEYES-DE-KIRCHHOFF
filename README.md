@@ -11,7 +11,7 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 * Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de
 Kirchhoff de Corrientes.
 
-* Determinar el cumplimiento de las leyes de Kirchoff en un circuito eléctrico 
+* Determinar el cumplimiento de las leyes de Kirchoff en un circuito eléctrico.
 
 * Medir las corrientes y los voltajes que circulan por el circuito.
 
