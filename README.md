@@ -11,13 +11,9 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 * Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de
 Kirchhoff de Corrientes.
 
-* Determinar el cumplimiento de las leyes de Kirchoff en un circuito eléctrico.
+* Determinar el cumplimiento de las leyes de Kirchoff en un circuito eléctrico 
 
-* Medir las corrientes y los voltajes que circulan por el circuito.
-
-* Familiarizarse con el uso del multímetro en modo de voltímetro y amperímetro.
-
-* Estudiar y analizar mallas y así tener un mejor entendimiento sobre el tema de circuitos eléctricos.
+* Medir las caorrientes y los voltajes que circulan por el circuito
 
 
 3. ESTADO DEL ARTE
@@ -27,7 +23,7 @@ Los creadores afirman que no son robots tradicionales sino se trata de un organi
 
 4. MARCO TEÓRICO 
 
-Las leyes de Kirchhoff fueron formuladas por el físico Gustav Kirchhoff en 1845. Es responsable de 2 leyes fundamentales en teoría clásica de circuitos eléctricos. Estas leyes permiten resolver los circuitos electrónicos utilizando un conjunto de ecuaciones y son ampliamente usadas en ingeniería eléctrica e ingeniería electrónica. Adémas estas leyes indican que las corrientes que entran a un nodo son igual a la suma de corrientes que salen, y la ley de las mallas que dice que la suma de voltajes en una malla o rama cerrada es igual a cero, entonces al comparar con los valores teóricos se puede notar un porcentaje de error bajo. 
+Las leyes de Kirchhoff fueron formuladas por el físico Gustav Kirchhoff en 1845. Es responsable de 2 leyes fundamentales en teoría clásica de circuitos eléctricos. Estas leyes permiten resolver los circuitos electrónicos utilizando un conjunto de ecuaciones y son ampliamente usadas en ingeniería eléctrica e ingeniería electrónica.
 
 ##### Enunciado de la primera ley de Kirchhoff
 
@@ -75,6 +71,8 @@ Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo
 * Concluimos que es posible verificar y comprobar las leyes de Kirchhoff para circuitos resistivos tanto teóricamente como en la práctica. Ademas conocimos las aplicaciones de un multímetro para medir la intensidad de corriente, voltaje y resistencias; igual que las condiciones que hay que tener en el circuito antes de utilizar el multímetro para que no se cometan errores en la medición y obtener un buen resultado.
 
 * Este laboratorio realizado sobre las leyes de Kirchhoff es importante para un mejor entendimiento de la razón por la cual estas leyes son válidas y qué tan precisas pueden ser. El manejo de ellas es imperial: gracias a ellas se pueden resolver sin mayores complicaciones circuitos eléctricos que serían demasiado complejos de analizar mediante la reducción de los mismos a circuitos más simples.
+
+* Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 10% en su mayoría.
 
 
 10. RECOMENDACIONES 
