@@ -23,7 +23,15 @@ Los creadores afirman que no son robots tradicionales sino se trata de un organi
 
 4.MARCO TEÓRICO 
 
-Las leyes de Kirchhoff fueron formuladas por el físico Gustav Kirchhoff en 1845. Es responsable de 2 leyes fundamentales en teoría clásica de circuitos eléctricos. Estas leyes permiten resolver los circuitos electrónicos utilizando un conjunto de ecuaciones y son ampliamente usadas en ingeniería eléctrica e ingeniería electrónica 
+Las leyes de Kirchhoff fueron formuladas por el físico Gustav Kirchhoff en 1845. Es responsable de 2 leyes fundamentales en teoría clásica de circuitos eléctricos. Estas leyes permiten resolver los circuitos electrónicos utilizando un conjunto de ecuaciones y son ampliamente usadas en ingeniería eléctrica e ingeniería electrónica.
+
+# Enunciado de la primera ley de Kirchhoff
+
+En un circuito eléctrico, es común que se generen nodos de corriente. Un nodo es el punto del circuito donde se unen más de un terminal de un componente eléctrico. Se puede generalizar la primera ley de Kirchhoff diciendo que «la suma de las corrientes entrantes a un nodo son iguales a la suma de las corrientes salientes en él».
+La razón por la cual se cumple esta ley se entiende perfectamente en forma intuitiva si uno considera que la corriente eléctrica es debida a la circulación de electrones de un punto a otro del circuito.
+Mas científicamente se puede decir, que siempre se debe cumplir una ley de la física que dice que la energía no se crea ni se consume, sino que siempre se transforma. La energía eléctrica que entrega la batería se subdivide en el nodo de modo que se transforma en iguales energías térmicas entregadas al ambiente por cada uno de los resistores. Si los resistores son iguales y están conectados a la misma tensión, deben generar la misma cantidad de calor y por lo tanto deben estar recorridos por la misma corriente; que sumadas deben ser iguales a la corriente entregada por la batería, para que se cumpla la ley de conservación de la energía.
+En una palabra, que la energía eléctrica entregada por la batería es igual a la suma de las energías térmicas disipadas por los resistores.
+
 
 
 
