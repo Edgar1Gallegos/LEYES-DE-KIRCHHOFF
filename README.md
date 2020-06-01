@@ -23,7 +23,7 @@ Los creadores afirman que no son robots tradicionales sino se trata de un organi
 
 4.MARCO TEÓRICO 
 
-
+Las leyes de Kirchhoff fueron formuladas por el físico Gustav Kirchhoff en 1845. Es responsable de 2 leyes fundamentales en teoría clásica de circuitos eléctricos. Estas leyes permiten resolver los circuitos electrónicos utilizando un conjunto de ecuaciones y son ampliamente usadas en ingeniería eléctrica e ingeniería electrónica 
 
 
 
