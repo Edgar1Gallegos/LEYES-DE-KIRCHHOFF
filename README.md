@@ -56,7 +56,7 @@ Por ende, al momento de aplicar esta ley hay que ser muy precavidos en el sentid
 
 6. LISTA DE COMPONENTES 
 
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Componentes.jpg) 
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Tabla%20de%20Componentes.jpg) 
 
 7. EXPLICACIÓN DEL CÓDIGO FUENTE 
 
