@@ -15,6 +15,10 @@ Kirchhoff de Corrientes.
 
 * Medir las caorrientes y los voltajes que circulan por el circuito
 
+* Familiarizarse con el uso del multímetro en modo de voltímetro y amperímetro.
+
+* Estudiar y analizar mallas y así tener un mejor entendimiento sobre el tema de circuitos eléctricos.
+
 
 3. ESTADO DEL ARTE
 
@@ -23,7 +27,7 @@ Los creadores afirman que no son robots tradicionales sino se trata de un organi
 
 4. MARCO TEÓRICO 
 
-Las leyes de Kirchhoff fueron formuladas por el físico Gustav Kirchhoff en 1845. Es responsable de 2 leyes fundamentales en teoría clásica de circuitos eléctricos. Estas leyes permiten resolver los circuitos electrónicos utilizando un conjunto de ecuaciones y son ampliamente usadas en ingeniería eléctrica e ingeniería electrónica.
+Las leyes de Kirchhoff fueron formuladas por el físico Gustav Kirchhoff en 1845. Es responsable de 2 leyes fundamentales en teoría clásica de circuitos eléctricos. Estas leyes permiten resolver los circuitos electrónicos utilizando un conjunto de ecuaciones y son ampliamente usadas en ingeniería eléctrica e ingeniería electrónica. Además estas leyes indican que las corrientes que entran a un nodo son igual a la suma de corrientes que salen, y la ley de las mallas que dice que la suma de voltajes en una malla o rama cerrada es igual a cero, entonces al comparar con los valores teóricos se puede notar un porcentaje de error bajo.
 
 ##### Enunciado de la primera ley de Kirchhoff
 
