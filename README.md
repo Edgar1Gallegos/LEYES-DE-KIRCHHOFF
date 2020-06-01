@@ -36,6 +36,7 @@ Los creadores afirman que no son robots tradicionales sino se trata de un organi
 
 
 5. DIAGRAMAS 
+!https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Diagrama.jpg 
 
 
 
