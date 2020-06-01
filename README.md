@@ -56,10 +56,7 @@ Por ende, al momento de aplicar esta ley hay que ser muy precavidos en el sentid
 
 6. LISTA DE COMPONENTES 
 
-* Tinkercad 
-* Fuente de alimentación variable 
-* Resistores varios valores 
-* Multímetro 
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Componentes.jpg) 
 
 7. EXPLICACIÓN DEL CÓDIGO FUENTE 
 
