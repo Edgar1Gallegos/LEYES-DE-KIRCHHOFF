@@ -56,7 +56,7 @@ Por ende, al momento de aplicar esta ley hay que ser muy precavidos en el sentid
 
 6. LISTA DE COMPONENTES 
 
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Tabla%20de%20Componentes.jpg) 
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Componentes.jpg) 
 
 7. EXPLICACIÓN DEL CÓDIGO FUENTE 
 
@@ -69,6 +69,9 @@ Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo
 9. CONCLUSIONES 
 
 * Concluimos que es posible verificar y comprobar las leyes de Kirchhoff para circuitos resistivos tanto teóricamente como en la práctica. Ademas conocimos las aplicaciones de un multímetro para medir la intensidad de corriente, voltaje y resistencias; igual que las condiciones que hay que tener en el circuito antes de utilizar el multímetro para que no se cometan errores en la medición y obtener un buen resultado.
+
+* Este laboratorio realizado sobre las leyes de Kirchhoff es importante para un mejor entendimiento de la razón por la cual estas leyes son válidas y qué tan precisas pueden ser. El manejo de ellas es imperial: gracias a ellas se pueden resolver sin mayores complicaciones circuitos eléctricos que serían demasiado complejos de analizar mediante la reducción de los mismos a circuitos más simples.
+
 
 10. RECOMENDACIONES 
 
