@@ -61,7 +61,13 @@ Por ende, al momento de aplicar esta ley hay que ser muy precavidos en el sentid
 * Resistores varios valores 
 * Multímetro 
 
+7. EXPLICACIÓN DEL CÓDIGO FUENTE 
 
+Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el negativo. Luego se conectan las resistencias siguiendo el diagrama, que en este caso son 5 de valores de 1.5k, 2.2k (2), 3.9k y 1.8k. Siguiendo el esquema mediante cables se unen los elementos y luego con multímetro se mide los valores pedidos. 
+
+8. APORTACIONES 
+
+Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo de técnicas que nos permitieron resolver circuitos complejos de manera rápida y efectiva, además, estas leyes nos permitieron analizar dichos problemas por medio de dos técnicas: Mallas y Nodos.
 
 
 
