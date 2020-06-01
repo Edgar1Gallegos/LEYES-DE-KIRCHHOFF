@@ -40,6 +40,12 @@ Los creadores afirman que no son robots tradicionales sino se trata de un organi
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Diagrama.jpg) 
 
 
+6. LISTA DE COMPONENTES 
+
+* Tinkercad 
+* Fuente de alimentación variable 
+* Resistores varios valores 
+* Multímetro 
 
 
 
