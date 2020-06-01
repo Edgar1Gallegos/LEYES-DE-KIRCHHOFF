@@ -21,7 +21,7 @@ Kirchhoff de Corrientes.
 A inicios del presente año Josh Bongard experto en informática y robótica de la Universidad de Vermont (EE UU) y coautor de la nueva investigación que se publica en la revista PNAS junto al estudiante Sam Kriegman han empleado células madres de embriones de ranas para crear unas ‘máquinas vivas’ a las cuales bautizaron como ‘xenobots’. 
 Los creadores afirman que no son robots tradicionales sino se trata de un organismo vivo y programable, los cuales se pueden utilizar para transportar algún objeto, buscar compuestos desagradables o de contaminación radiactiva, recolectar microplásticos en los océanos o viajar por las arterias para raspar placa. Estos xenobots son totalmente biodegradables, ya que una vez que mueren después de 7 días de funcionamiento se convierten en células muertas de la piel.
 
-4.MARCO TEÓRICO 
+4. MARCO TEÓRICO 
 
 Las leyes de Kirchhoff fueron formuladas por el físico Gustav Kirchhoff en 1845. Es responsable de 2 leyes fundamentales en teoría clásica de circuitos eléctricos. Estas leyes permiten resolver los circuitos electrónicos utilizando un conjunto de ecuaciones y son ampliamente usadas en ingeniería eléctrica e ingeniería electrónica.
 
@@ -32,6 +32,12 @@ La razón por la cual se cumple esta ley se entiende perfectamente en forma intu
 Mas científicamente se puede decir, que siempre se debe cumplir una ley de la física que dice que la energía no se crea ni se consume, sino que siempre se transforma. La energía eléctrica que entrega la batería se subdivide en el nodo de modo que se transforma en iguales energías térmicas entregadas al ambiente por cada uno de los resistores. Si los resistores son iguales y están conectados a la misma tensión, deben generar la misma cantidad de calor y por lo tanto deben estar recorridos por la misma corriente; que sumadas deben ser iguales a la corriente entregada por la batería, para que se cumpla la ley de conservación de la energía.
 En una palabra, que la energía eléctrica entregada por la batería es igual a la suma de las energías térmicas disipadas por los resistores.
 
+##### Enunciado de la segunda ley de Kirchhoff 
+
+Cuando un circuito posee mas de una batería y varios resistores de carga ya no resulta tan claro como se establecen la corrientes por el mismo. En ese caso es de aplicación la segunda ley de Kirchhoff, que permite resolver el circuito con una gran claridad.
+La segunda ley de Kirchhoff indica que la suma algebraica de todos los voltajes en una malla o bucle cerrado debe ser igual a cero.
+El hecho de que se refiera a la suma algebraica implica el cuidado de las polaridades de las fuentes de energía, así como los signos de las caídas de tensión sobre cada componente eléctrico del circuito.
+Por ende, al momento de aplicar esta ley hay que ser muy precavidos en el sentido de circulación de la corriente y, en consecuencia, con los signos de los voltajes contenidos dentro de la malla.
 
 
 
