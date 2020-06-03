@@ -89,11 +89,15 @@ Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el
 
 12. BIBLIOGRAFÍA 
 
-Dorf, R., & Svoboda, J. (2011). Circuitos eléctricos. México: Alfaomega.
-Alcalde San Miguel, P. (2010). Electrónica general: equipos electrónicos de consumo. Madrid: Thomson/Paraninfo.
-William H.Hayt,Jr; Jack E. Kemmerly; Steven M. Durbin. Análisis de ciruitos en ingeniería.
-
-Leer más: https://kirchhoff-y-divisores2.webnode.es/bibliografia/
+* Matthew N.O.Sadiku, C. K. (2006). Fundamentos de circuitos eléctricos. McGraw-Hill Interamericana.
+radio electronica. (s.f.). Recuperado el 01 de Junio de 2020, de http://www.radioelectronica.es/articulos-teoricos/200-las-leyes-de-kirchhoff
+* Dorf, R., & Svoboda, J. (2011). Circuitos eléctricos. México: Alfaomega.
+* Alcalde San Miguel, P. (2010). Electrónica general: equipos electrónicos de consumo. Madrid: Thomson/Paraninfo.
+* William H.Hayt,Jr; Jack E. Kemmerly; Steven M. Durbin. Análisis de ciruitos en ingeniería.
+* Electrónica completa. (s.f.). Recuperado el 01 de Junio de 2020, de http://electronicacompleta.com/lecciones/leyes-de-kirchhoff/
+* Khan Academy. (s.f.). Khan Academy. Recuperado el 01 de Junio de 2020, de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+* Sánchez, A. S. (s.f.). EDUCACIÓN Y TECNOLOGIA. (weebly) Recuperado el 01 de Junio de 2020, de https://www.educoteca.com/tinkercad.html
+* wikipedia. (20 de Noviembre de 2018). Wikipedia. (Fundación Wikimedia, Inc) Recuperado el 01 de Junio de 2020, de https://es.wikipedia.org/wiki/Leyes_de_Kirchhoff
 
 
 13. ANEXOS 
