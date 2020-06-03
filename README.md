@@ -111,7 +111,11 @@ Para la descripcion de los equipos empleados vease hojas técnicas.
 
 7. TABLAS DE MEDICIONES Y CÁLCULOS 
 
-[](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/Hojas%20t%C3%A9cnicas/Tablas%20de%20mediciones.pdf)
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Resultados.jpg)
+
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Resultados2.jpg)
+
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Resultados3.jpg)
 
 8. CONCLUSIONES 
 
