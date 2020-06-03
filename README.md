@@ -109,7 +109,11 @@ Para la descripcion de los equipos empleados vease hojas técnicas.
 * Guardamos y salimos.
 
 
-7. CONCLUSIONES 
+7. TABLAS DE MEDICIONES Y CÁLCULOS 
+
+[](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/Hojas%20t%C3%A9cnicas/Tablas%20de%20mediciones.pdf)
+
+8. CONCLUSIONES 
 
 * Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo de técnicas que nos permitieron resolver circuitos complejos de manera rápida y efectiva, además, estas leyes nos permitieron analizar dichos problemas por medio de dos técnicas: Mallas y Nodos. Por otra parte, este laboratorio resulto ser de gran provecho, ya que pudimos armar circuitos con más de una resistencia colocándola en serie y paralelo, lo que hace que los laboratorios resulten de mayor interés para ampliar más nuestros conocimientos en el armamento de circuitos en el protoboard.
 
@@ -117,7 +121,7 @@ Para la descripcion de los equipos empleados vease hojas técnicas.
 
 * Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 0.5% en su mayoría.
 
-8. RECOMENDACIONES 
+9. RECOMENDACIONES 
 
 * Se requiere tener bien hecho las conexiones sino los elementos se queman, pero en este caso podemos simular en el laboratorio online DCAC-LAB algo similar a la vida real. En tinkercad se deben realizar los cambios siempre y cuando la simulaciín este detenida.
 
@@ -127,7 +131,7 @@ Para la descripcion de los equipos empleados vease hojas técnicas.
 
 * Colocar de manera correcta los elementos en los pines de la protoboard para no interferir en los calculos, diferencias los cables tanto positivo y negativo en color rojo y negro respectivamente.
 
-9. BIBLIOGRAFÍA 
+10. BIBLIOGRAFÍA 
 
 * Matthew N.O.Sadiku, C. K. (2006). Fundamentos de circuitos eléctricos. McGraw-Hill Interamericana.
 radio electronica. (s.f.). Recuperado el 01 de Junio de 2020, de http://www.radioelectronica.es/articulos-teoricos/200-las-leyes-de-kirchhoff
@@ -138,7 +142,7 @@ radio electronica. (s.f.). Recuperado el 01 de Junio de 2020, de http://www.radi
 * wikipedia. (20 de Noviembre de 2018). Wikipedia. (Fundación Wikimedia, Inc) Recuperado el 01 de Junio de 2020, de https://es.wikipedia.org/wiki/Leyes_de_Kirchhoff
 
 
-10. ANEXOS 
+12. ANEXOS 
 
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos3.jpeg)
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos2.jpeg)
