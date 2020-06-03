@@ -72,12 +72,11 @@ Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo
 
 9. CONCLUSIONES 
 
-* Concluimos que es posible verificar y comprobar las leyes de Kirchhoff para circuitos resistivos tanto teóricamente como en la práctica. Ademas conocimos las aplicaciones de un multímetro para medir la intensidad de corriente, voltaje y resistencias; igual que las condiciones que hay que tener en el circuito antes de utilizar el multímetro para que no se cometan errores en la medición y obtener un buen resultado.
+* Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo de técnicas que nos permitieron resolver circuitos complejos de manera rápida y efectiva, además, estas leyes nos permitieron analizar dichos problemas por medio de dos técnicas: Mallas y Nodos. Por otra parte, este laboratorio resulto ser de gran provecho, ya que pudimos armar circuitos con más de una resistencia colocándola en serie y paralelo, lo que hace que los laboratorios resulten de mayor interés para ampliar más nuestros conocimientos en el armamento de circuitos en el protoboard.
 
-* Este laboratorio realizado sobre las leyes de Kirchhoff es importante para un mejor entendimiento de la razón por la cual estas leyes son válidas y qué tan precisas pueden ser. El manejo de ellas es imperial: gracias a ellas se pueden resolver sin mayores complicaciones circuitos eléctricos que serían demasiado complejos de analizar mediante la reducción de los mismos a circuitos más simples.
+* Esta práctica de laboratorio, aunque fue hecha de manera virtual, resulto de mucha ayuda ya que ofrece la mayoría de disposiciones a ocupar de manera física, nos sorprendió los valores tan exactos que arrojo aun siendo gratuito además de que pudimos comprobar las leyes de Kirchoff entre otras cosas.
 
-* Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 10% en su mayoría.
-
+* Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 0.5% en su mayoría.
 
 10. RECOMENDACIONES 
 
