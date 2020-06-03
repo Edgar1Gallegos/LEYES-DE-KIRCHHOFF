@@ -150,11 +150,3 @@ radio electronica. (s.f.). Recuperado el 01 de Junio de 2020, de http://www.radi
 * Sánchez, A. S. (s.f.). EDUCACIÓN Y TECNOLOGIA. (weebly) Recuperado el 01 de Junio de 2020, de https://www.educoteca.com/tinkercad.html
 * wikipedia. (20 de Noviembre de 2018). Wikipedia. (Fundación Wikimedia, Inc) Recuperado el 01 de Junio de 2020, de https://es.wikipedia.org/wiki/Leyes_de_Kirchhoff
 
-
-13. ANEXOS 
-
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos3.jpeg)
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos2.jpeg)
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos.jpeg)
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos1.jpeg)
-
