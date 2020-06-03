@@ -101,6 +101,9 @@ Para ello, deberemos crearnos una cuenta de usuario y acceder. Seleccionando la 
 
 Tinkercad asignará a nuestro nuevo proyecto un nombre por defecto (Tremendous Turing) y ofrece una serie de componentes en la parte derecha de la pantalla.
 
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Manual%20de%20usuario%202.jpg)
+
+
 
 
 
