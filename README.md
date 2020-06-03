@@ -86,7 +86,28 @@ Para la descripcion de los equipos empleados vease hojas técnicas.
 
 6. EXPLICACIÓN DEL CÓDIGO FUENTE 
 
-Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el negativo. Luego se conectan las resistencias siguiendo el diagrama visto en el archivo de la practica, que en este caso son 5 de valores de 1kOhm.5kOhm, 2.2kOkm (2), 3.9kOkm y 1.8kOhm. Siguiendo el esquema mediante cables se unen los elementos y luego con multímetro se mide los valores pedidos. 
+* Abrimos el sitio web "tinkercad" y creamos una cuenta.
+
+* Hacemos clic izquierdo en "Circuits" y comenzamos con la practica.
+
+* Seleccionamos una placa de pruebas pequeñas (Protoboard)
+
+* Se seleccicona y se conecta al protoboard un sumistro de energia asignandole un valor de 10 voltios.
+
+* Escogemos cinco resistencias y las conectamos siguiendo el diagrama visto en el archivo de la practica, que en este caso son 5 de valores de 1kOhm.5kOhm, 2.2kOkm (2), 3.9kOkm y 1.8kOhm. 
+
+* Hacinedo clic izquierdo en los agujeros del prtoboard conectamos con cables las resistencias y pasamos corriente a donde haga falta.
+
+* Colocamos un multimetro y realizamos las mediciones de voltaje y de corriente el colo negro es el negativo mientras que el colo rojo es el positivo.
+
+* Cambiamos la configuracion de multimetro en volatje y conectamos en paralelo con las resistencias.
+
+* Ahora dentro del mismo multimetro seleccionamos amperaje y conectamos en serie con las resistencias.
+
+* Anotamos los valores obtenidos en las tablas de la guia de laboratorio.
+
+* Guardamos y salimos.
+
 
 7. CONCLUSIONES 
 
