@@ -128,6 +128,13 @@ Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el
 
 10. RECOMENDACIONES 
 
+* Se requiere tener bien hecho las conexiones sino los elementos se queman, pero en este caso podemos simular en el laboratorio online DCAC-LAB algo similar a la vida real. En tinkercad se deben realizar los cambios siempre y cuando la simulaciín este detenida.
+
+* Verificar los datos de todos los elementos antes de realizar las medidas para poder cuadrar con los valores calculados en el cuaderno.
+
+* Percartarse al momento de medir ya que el multimetro tiene las magnitudes de voltaje y amperios además tener en cuenta de las escalas que se mide.
+
+* Colocar bien los elementos en los pines de la protoboard para no interferir en los calculos, diferencias los cables tanto positivo y negativo en color rojo y negro respectivamente.
 
 11. CRONOGRAMA 
 
@@ -174,9 +181,3 @@ Sea cual sea la opción, clicando sobre el componente y arrastrándolo al área 
 
 
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Manual%20de%20usuario%203.jpg)
-
-
-
-
-
-
