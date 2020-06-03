@@ -90,6 +90,9 @@ Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo
 
 13. ANEXOS 
 
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos.jpeg)
+*Hoja de cálculos 
+
 14. MANUAL DE USUARIO 
 
 ##### Que es TinkerCAD y cómo funciona 
