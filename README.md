@@ -24,13 +24,6 @@ Kirchhoff de Corrientes.
 
 
 
-Diana Carolina Salazar Peñaherrera, bajo el mando del director Ing. Juan Fernando Iñiguez
-
-2011
-
-Se puede utilizar el tablero para conocer la forma correcta de aplicación de las leyes de electricidad y las posibles variaciones en la práctica con la teoría.Los principios básicos de electricidad se mantienen en cualquier práctica que se realice y en cualquier circuito eléctrico, depende del estudiante como aplica sus conocimientos tanto en el tablero didáctico como en el automóvil.
-Quito, Universidad Internacional del Ecuador (Facultad de Ingeniería Automotriz)
-
 4. MARCO TEÓRICO 
 
 ##### Conceptos previos de las leyes de Kirchhoff
