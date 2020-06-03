@@ -27,6 +27,30 @@ Los creadores afirman que no son robots tradicionales sino se trata de un organi
 
 4. MARCO TEÓRICO 
 
+##### Conceptos previos de las leyes de Kirchhoff
+
+Antes de empezar con las leyes de Kirchhoff es necesario conocer conceptos previos para tener un mejor entendimiento.
+
+##### Elementos activos 
+Son los elementos de un circuito capaces de suministrar energía al circuito. Las fuentes de tensión son elementos activos.
+##### Elementos pasivos
+Son los elementos de un circuito que consumen energía. Son elementos pasivos las resistencias, las inductancias y los condensadores.
+##### Nudo
+Punto de un circuito donde concurren más de dos conductores
+##### Rama
+Conjunto de todos los elementos comprendido entre dos nudos consecutivos
+##### Malla
+Conjunto de ramas que forman un camino cerrado en un circuito, que no puede subdividirse en otros ni pasar dos veces por la misma rama
+
+En el siguiente circuito diferenciaremos:
+
+
+
+Los elementos activos son los generadores: E1 - E2 - E3
+Los elementos pasivos son las resistencias: R1 -R2 - R3 - R5 - R6 - R7 
+Los nodos del circuito: a - b - c - d
+Las ramas: ab, bd,  bc, ad, dc y ac
+Las mallas: abda, dbcd y adca
 
 ##### Mallas eléctricas
 
