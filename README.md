@@ -84,7 +84,7 @@ Por ende, al momento de aplicar esta ley hay que ser muy precavidos en el sentid
 
 Para la descripcion de los equipos empleados vease hojas técnicas.
 
-6. EXPLICACIÓN DEL CÓDIGO FUENTE 
+6. PROCEDIMIENTO  
 
 * Abrimos el sitio web "tinkercad" y creamos una cuenta.
 
