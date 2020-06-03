@@ -22,8 +22,14 @@ Kirchhoff de Corrientes.
 
 3. ESTADO DEL ARTE
 
-A inicios del presente año Josh Bongard experto en informática y robótica de la Universidad de Vermont (EE UU) y coautor de la nueva investigación que se publica en la revista PNAS junto al estudiante Sam Kriegman han empleado células madres de embriones de ranas para crear unas ‘máquinas vivas’ a las cuales bautizaron como ‘xenobots’. 
-Los creadores afirman que no son robots tradicionales sino se trata de un organismo vivo y programable, los cuales se pueden utilizar para transportar algún objeto, buscar compuestos desagradables o de contaminación radiactiva, recolectar microplásticos en los océanos o viajar por las arterias para raspar placa. Estos xenobots son totalmente biodegradables, ya que una vez que mueren después de 7 días de funcionamiento se convierten en células muertas de la piel.
+
+
+Diana Carolina Salazar Peñaherrera, bajo el mando del director Ing. Juan Fernando Iñiguez
+
+2011
+
+Se puede utilizar el tablero para conocer la forma correcta de aplicación de las leyes de electricidad y las posibles variaciones en la práctica con la teoría.Los principios básicos de electricidad se mantienen en cualquier práctica que se realice y en cualquier circuito eléctrico, depende del estudiante como aplica sus conocimientos tanto en el tablero didáctico como en el automóvil.
+Quito, Universidad Internacional del Ecuador (Facultad de Ingeniería Automotriz)
 
 4. MARCO TEÓRICO 
 
