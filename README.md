@@ -36,6 +36,11 @@ En un circuito eléctrico, una malla es un camino cerrado formado por elementos 
 
 Segun la ley de voltajes Kirchhoff establece que la sumatatoria de los voltajes en una malla es igual a cero.
 
+##### Código de colores para obtener el valor de las resistencias.
+
+
+
+
 ##### Leyes De Kirchhoff
 
 Las leyes de Kirchhoff fueron formuladas por el físico Gustav Kirchhoff en 1845. Es responsable de 2 leyes fundamentales en teoría clásica de circuitos eléctricos. Estas leyes nos permiten resolver los circuitos electrónicos utilizando un sistema de ecuaciones que a menudo bastante usadas en ingeniería eléctrica e ingeniería electrónica. Además estas leyes indican que las corrientes que entran a un nodo son igual a la suma de corrientes que salen, y por otro lado la ley de las mallas que dice que la suma de voltajes en una malla o rama cerrada es igual a cero, entonces al comparar con los valores medidos se puede notar un porcentaje de error bajo.
@@ -83,6 +88,8 @@ Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el
 * Alrededor de 1857, Kirchhoff descubrió que la velocidad de una corriente eléctrica en un cable altamente conductor es independiente de la naturaleza del cable y es prácticamente igual a la velocidad de la luz; aunque Kirchhoff asumió que era una coincidencia y no una ley de la Naturaleza, como Maxwell estableció 5 años más tarde al demostrar que la luz es una radiación electromagnética.
 
 * Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo de técnicas que nos permitieron resolver circuitos complejos de manera rápida y efectiva, además, estas leyes nos permitieron analizar dichos problemas por medio de dos técnicas: Mallas y Nodos.
+
+* Una corriente eléctrica, puesto que se trata de un movimiento de cargas, produce un campo magnético, un fenómeno que puede aprovecharse en el electroimán
 
 9. CONCLUSIONES 
 
