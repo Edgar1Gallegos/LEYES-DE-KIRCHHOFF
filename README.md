@@ -38,8 +38,7 @@ Segun la ley de voltajes Kirchhoff establece que la sumatatoria de los voltajes 
 
 ##### Código de colores para obtener el valor de las resistencias.
 
-
-
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Colores%20resistencias.jpeg)
 
 ##### Leyes De Kirchhoff
 
