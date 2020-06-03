@@ -32,7 +32,7 @@ Los creadores afirman que no son robots tradicionales sino se trata de un organi
 
 En un circuito eléctrico, una malla es un camino cerrado formado por elementos de eléctricos. Podemos visualizar que existen 4 mallas en el circuito. 
 
-![](Segun la ley de voltajes Kirchhoff establece que la sumatatoria de los voltajes en una malla es igual a cero.)
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Mallas.jpeg)
 
 Segun la ley de voltajes Kirchhoff establece que la sumatatoria de los voltajes en una malla es igual a cero.
 
