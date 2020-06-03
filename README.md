@@ -104,6 +104,14 @@ Tinkercad asignará a nuestro nuevo proyecto un nombre por defecto (Tremendous T
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Manual%20de%20usuario%202.jpg)
 
 
+El cuadro de selección nos ofrece las opciones “Basic” y “All”, según queramos componentes elementales o de uso más común como pulsadores, Leds, resistencias fijas, potenciómetros, baterías, transistores, placas de prototipado etc. u opciones más avanzadas como circuitos integrados, osciloscopios, control remoto o tiras de Leds.
+
+Sea cual sea la opción, clicando sobre el componente y arrastrándolo al área de trabajo podremos ir ensamblando nuestros circuitos. Además, podremos nombrar cada componente y cambiar ciertas características, tales como valores, color etc.
+
+
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Manual%20de%20usuario%203.jpg)
+
+
 
 
 
