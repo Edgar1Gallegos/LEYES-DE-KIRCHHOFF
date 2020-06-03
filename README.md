@@ -55,7 +55,7 @@ Por ende, al momento de aplicar esta ley hay que ser muy precavidos en el sentid
 
 5. DIAGRAMAS 
 
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Diagrama.jpg) 
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Diagrama2.jpg) 
 
 
 6. LISTA DE COMPONENTES 
