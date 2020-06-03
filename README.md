@@ -29,6 +29,17 @@ Los creadores afirman que no son robots tradicionales sino se trata de un organi
 
 Las leyes de Kirchhoff fueron formuladas por el físico Gustav Kirchhoff en 1845. Es responsable de 2 leyes fundamentales en teoría clásica de circuitos eléctricos. Estas leyes nos permiten resolver los circuitos electrónicos utilizando un sistema de ecuaciones que a menudo bastante usadas en ingeniería eléctrica e ingeniería electrónica. Además estas leyes indican que las corrientes que entran a un nodo son igual a la suma de corrientes que salen, y por otro lado la ley de las mallas que dice que la suma de voltajes en una malla o rama cerrada es igual a cero, entonces al comparar con los valores medidos se puede notar un porcentaje de error bajo.
 
+##### Mallas eléctricas
+
+En un circuito eléctrico, una malla es un camino cerrado formado por elementos de eléctricos. Podemos visualizar que existen 4 mallas en el circuito. 
+
+
+
+
+
+
+Segun la ley de voltajes Kirchhoff establece que la sumatatoria de los voltajes en una malla es igual a cero.
+
 ##### Enunciado de la primera ley de Kirchhoff
 
 En un circuito eléctrico, es común que se generen nodos de corriente. Un nodo es el punto del circuito donde se unen más de un terminal de un componente eléctrico.La razón por la cual se cumple esta ley se entiende perfectamente en forma intuitiva si uno considera que la corriente eléctrica es debida a la circulación de electrones de un punto a otro del circuito.
