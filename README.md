@@ -119,7 +119,8 @@ Para la descripción de los equipos empleados véase hojas técnicas.
 
 8. ANÁLISIS DE RESULTADOS
 
-
+* Según los datos de la Tabla 1, es clara la similitud entre los valores de intensidad de corriente y voltaje experimentales y teóricos. * El error entre ambas cantidades oscila entre el 0% y el 0.5% este último del voltaje de los resistores. Esta congruencia entre los valores medidos y teóricos nos sugiere que las leyes de Kirchhoff, efectivamente, nos permiten determinar la corriente y voltaje de elementos en un circuito eléctrico difícil de reducir. 
+* Como se había dicho, la diferencia relativa entre los valores teóricos y experimentales se debe a números de decimales trabajados ya en la teoría usamos un máximo de dos decimales mientras que el simulador se desconoce los decimales trabajado. Aun así, la determinación de la corriente y voltaje de resistores por este medio es una excelente aproximación a los valores reales, por el bajo error que presentan. En cuanto a las mediciones, mucho influye la lectura correcta de las mismas y la imprecisión de los instrumentos empleados para registrarlas.
 
 9. CONCLUSIONES 
 
