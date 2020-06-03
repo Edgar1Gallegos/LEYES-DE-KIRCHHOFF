@@ -44,7 +44,7 @@ Conjunto de ramas que forman un camino cerrado en un circuito, que no puede subd
 
 En el siguiente circuito diferenciaremos:
 
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Colores%20resistencias.jpeg)
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Circuito.jpeg)
 
 Los elementos activos son los generadores: E1 - E2 - E3
 Los elementos pasivos son las resistencias: R1 -R2 - R3 - R5 - R6 - R7 
