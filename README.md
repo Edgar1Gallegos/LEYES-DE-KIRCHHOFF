@@ -92,8 +92,10 @@ Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo
 
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos3.jpeg)
 
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos2.jpeg)
+
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos.jpeg)
-*Hoja de cálculos 
+
 
 14. MANUAL DE USUARIO 
 
