@@ -68,7 +68,9 @@ Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el
 
 8. APORTACIONES 
 
-Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo de técnicas que nos permitieron resolver circuitos complejos de manera rápida y efectiva, además, estas leyes nos permitieron analizar dichos problemas por medio de dos técnicas: Mallas y Nodos.
+* Alrededor de 1857, Kirchhoff descubrió que la velocidad de una corriente eléctrica en un cable altamente conductor es independiente de la naturaleza del cable y es prácticamente igual a la velocidad de la luz; aunque Kirchhoff asumió que era una coincidencia y no una ley de la Naturaleza, como Maxwell estableció 5 años más tarde al demostrar que la luz es una radiación electromagnética.
+
+* Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo de técnicas que nos permitieron resolver circuitos complejos de manera rápida y efectiva, además, estas leyes nos permitieron analizar dichos problemas por medio de dos técnicas: Mallas y Nodos.
 
 9. CONCLUSIONES 
 
