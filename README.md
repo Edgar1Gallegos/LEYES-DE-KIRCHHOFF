@@ -88,6 +88,8 @@ Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el
 
 * Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo de técnicas que nos permitieron resolver circuitos complejos de manera rápida y efectiva, además, estas leyes nos permitieron analizar dichos problemas por medio de dos técnicas: Mallas y Nodos.
 
+* En 1845 enunció las denominadas leyes de Kirchhoff aplicables al cálculo de tensiones, intensidades y resistencias en el sí de una malla eléctrica, entendidas como una extensión de la ley de la conservación de la energía, basándose en la teoría del físico Georg Simon Ohm, según la cual la tensión que origina el paso de una corriente eléctrica es proporcional a la intensidad de la corriente.
+
 * Una corriente eléctrica, puesto que se trata de un movimiento de cargas, produce un campo magnético, un fenómeno que puede aprovecharse en el electroimán
 
 9. CONCLUSIONES 
