@@ -89,6 +89,13 @@ Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el
 
 12. BIBLIOGRAFÍA 
 
+Dorf, R., & Svoboda, J. (2011). Circuitos eléctricos. México: Alfaomega.
+Alcalde San Miguel, P. (2010). Electrónica general: equipos electrónicos de consumo. Madrid: Thomson/Paraninfo.
+William H.Hayt,Jr; Jack E. Kemmerly; Steven M. Durbin. Análisis de ciruitos en ingeniería.
+
+Leer más: https://kirchhoff-y-divisores2.webnode.es/bibliografia/
+
+
 13. ANEXOS 
 
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos3.jpeg)
