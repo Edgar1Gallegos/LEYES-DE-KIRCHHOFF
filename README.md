@@ -82,7 +82,7 @@ Por ende, al momento de aplicar esta ley hay que ser muy precavidos en el sentid
 
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Tabla%20de%20Componentes.jpg) 
 
-Para la descripcion de los equipos empleados vease hojas técnicas.
+Para la descripción de los equipos empleados véase hojas técnicas.
 
 6. PROCEDIMIENTO  
 
