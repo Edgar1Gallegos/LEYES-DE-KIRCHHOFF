@@ -134,7 +134,7 @@ Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el
 
 * Percartarse al momento de medir ya que el multimetro tiene las magnitudes de voltaje y amperios además tener en cuenta de las escalas que se mide.
 
-* Colocar bien los elementos en los pines de la protoboard para no interferir en los calculos, diferencias los cables tanto positivo y negativo en color rojo y negro respectivamente.
+* Colocar de manera correcta los elementos en los pines de la protoboard para no interferir en los calculos, diferencias los cables tanto positivo y negativo en color rojo y negro respectivamente.
 
 11. CRONOGRAMA 
 
