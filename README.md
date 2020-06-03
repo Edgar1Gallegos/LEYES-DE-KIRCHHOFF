@@ -97,7 +97,9 @@ Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo
 Tinkercad es una herramienta online ofrecida por Autodesk. Se utiliza de forma gratuita y sólo requiere crearse una cuenta de usuario. De entre sus utilidades, probablemente la más conocida es la de diseñar piezas en 3D. Sin embargo, ofrece también una posibilidad realmente interesante y es la de montar, programar y simular circuitos con Arduino.
 Para ello, deberemos crearnos una cuenta de usuario y acceder. Seleccionando la opción “Circuits” podremos empezar a crear nuestros circuitos clicando sobre “Create new Circuit”:
 
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Manual%20de%20usuario.jpg)
 
+Tinkercad asignará a nuestro nuevo proyecto un nombre por defecto (Tremendous Turing) y ofrece una serie de componentes en la parte derecha de la pantalla.
 
 
 
