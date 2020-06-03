@@ -3,7 +3,7 @@
 
 1. PLANTEAMIENTO DEL PROBLEMA 
 
-En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos. En el cuál determinaremos los valores teóricos y experimentales en un circuito, para lo cual usaremos un software que nos permite emular el laboratorio. 
+En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos. En el cuál determinaremos los valores teóricos y experimentales en un circuito mixto, aplicando las Leyes de Corriente y Voltaje de Kirchoff, para lo cual usaremos un software que nos permite emular el laboratorio. 
 
 
 2. OBJETIVOS
@@ -11,25 +11,13 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 * Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de
 Kirchhoff de Corrientes.
 
-* Determinar el cumplimiento de las leyes de Kirchoff en un circuito eléctrico 
+* Medir las corrientes y los voltajes que circulan por el circuito.
 
-* Medir las corrientes y los voltajes que circulan por el circuito
+* Identificar en un circuito eléctrico mixto los nodos y mallas.
 
-* Familiarizarse con el uso del multímetro en modo de voltímetro y amperímetro.
+* Elaborar un circuito mixto en el simulador "tinkercad", recoger datos de voltaje y de corrriente en cada resistencia.
 
-* Estudiar y analizar mallas y así tener un mejor entendimiento sobre el tema de circuitos eléctricos.
-
-
-3. ESTADO DEL ARTE
-
-El estado del arte describe las investigaciones más recientes y actuales que sobre un tema en específico se han realizado. La descripción es un texto académico que expone sistemáticamente los avances existentes acerca de un tema y es de carácter más cualitativo, en el que se detallan los resultados y enfoques de las investigaciones en torno al tema que cada investigación ha abonado al tema de estudio de interés del investigador que elabora el estado del arte. La descripción gira en torno esencial a cuatro elementos:
-
-Quién? El investigador que desarrolló estudio.
-Cuándo? El año en que se publicaron los resultados del estudio. Aunque sabemos anticipadamente que el estudio debió de haber sido desarrollado con anterioridad mínima a un año generalmente.
-¿Qué? El objeto de estudio. Es aquí en donde se hace énfasis en la descripción. No solo se dice el objeto de estudio, sino el enfoque, los resultados de la investigación.
-¿Dónde? El lugar en donde se realizó la investigación. Este es un dato de referencia con varios propósitos: uno es para organizar la información de lo macro a micro (de carácter internacional, nacional o local); otro propósito es para saber la manera de establecer contacto con el autor de la investigación si así fuera el deseo del investigador que realiza el estado del arte; por ejemplo si es de la localidad puede contactarlo de manera directa y cara a cara, si no tendrá que establecer contacto por otros medios, ahora tenemos al alcance los medios electrónicos para ello que recortan el tiempo de la retroalimentación de un mensaje.
-
-4. MARCO TEÓRICO 
+3. MARCO TEÓRICO 
 
 ##### Conceptos previos de las leyes de Kirchhoff
 
@@ -90,40 +78,17 @@ La segunda ley de Kirchhoff indica que la suma algebraica de todos los voltajes 
 El hecho de que se refiera a la suma algebraica implica el cuidado de las polaridades de las fuentes de energía, así como los signos de las caídas de tensión sobre cada componente eléctrico del circuito.
 Por ende, al momento de aplicar esta ley hay que ser muy precavidos en el sentido de circulación de la corriente y, en consecuencia, con los signos de los voltajes contenidos dentro de la malla.
 
-
-
-
-
-
-
-
-
-
-
-5. DIAGRAMAS 
-
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Diagrama2.jpg) 
-
-
-6. LISTA DE COMPONENTES 
+4. LISTA DE COMPONENTES 
 
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Tabla%20de%20Componentes.jpg) 
 
-7. EXPLICACIÓN DEL CÓDIGO FUENTE 
+Para la descripcion de los equipos empleados vease hojas técnicas.
 
-Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el negativo. Luego se conectan las resistencias siguiendo el diagrama, que en este caso son 5 de valores de 1.5k, 2.2k (2), 3.9k y 1.8k. Siguiendo el esquema mediante cables se unen los elementos y luego con multímetro se mide los valores pedidos. 
+6. EXPLICACIÓN DEL CÓDIGO FUENTE 
 
-8. APORTACIONES 
+Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el negativo. Luego se conectan las resistencias siguiendo el diagrama visto en el archivo de la practica, que en este caso son 5 de valores de 1kOhm.5kOhm, 2.2kOkm (2), 3.9kOkm y 1.8kOhm. Siguiendo el esquema mediante cables se unen los elementos y luego con multímetro se mide los valores pedidos. 
 
-* Alrededor de 1857, Kirchhoff descubrió que la velocidad de una corriente eléctrica en un cable altamente conductor es independiente de la naturaleza del cable y es prácticamente igual a la velocidad de la luz; aunque Kirchhoff asumió que era una coincidencia y no una ley de la Naturaleza, como Maxwell estableció 5 años más tarde al demostrar que la luz es una radiación electromagnética.
-
-* Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo de técnicas que nos permitieron resolver circuitos complejos de manera rápida y efectiva, además, estas leyes nos permitieron analizar dichos problemas por medio de dos técnicas: Mallas y Nodos.
-
-* En 1845 enunció las denominadas leyes de Kirchhoff aplicables al cálculo de tensiones, intensidades y resistencias en el sí de una malla eléctrica, entendidas como una extensión de la ley de la conservación de la energía, basándose en la teoría del físico Georg Simon Ohm, según la cual la tensión que origina el paso de una corriente eléctrica es proporcional a la intensidad de la corriente.
-
-* Una corriente eléctrica, puesto que se trata de un movimiento de cargas, produce un campo magnético, un fenómeno que puede aprovecharse en el electroimán
-
-9. CONCLUSIONES 
+7. CONCLUSIONES 
 
 * Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo de técnicas que nos permitieron resolver circuitos complejos de manera rápida y efectiva, además, estas leyes nos permitieron analizar dichos problemas por medio de dos técnicas: Mallas y Nodos. Por otra parte, este laboratorio resulto ser de gran provecho, ya que pudimos armar circuitos con más de una resistencia colocándola en serie y paralelo, lo que hace que los laboratorios resulten de mayor interés para ampliar más nuestros conocimientos en el armamento de circuitos en el protoboard.
 
@@ -131,7 +96,7 @@ Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el
 
 * Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 0.5% en su mayoría.
 
-10. RECOMENDACIONES 
+8. RECOMENDACIONES 
 
 * Se requiere tener bien hecho las conexiones sino los elementos se queman, pero en este caso podemos simular en el laboratorio online DCAC-LAB algo similar a la vida real. En tinkercad se deben realizar los cambios siempre y cuando la simulaciín este detenida.
 
@@ -141,11 +106,11 @@ Se conecta una fuente en este caso de 10 voltios al protoboard, el positivo y el
 
 * Colocar de manera correcta los elementos en los pines de la protoboard para no interferir en los calculos, diferencias los cables tanto positivo y negativo en color rojo y negro respectivamente.
 
-11. CRONOGRAMA 
+9. CRONOGRAMA 
 
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/CRONOGRAMA.jpg) 
 
-12. BIBLIOGRAFÍA 
+10. BIBLIOGRAFÍA 
 
 * Matthew N.O.Sadiku, C. K. (2006). Fundamentos de circuitos eléctricos. McGraw-Hill Interamericana.
 radio electronica. (s.f.). Recuperado el 01 de Junio de 2020, de http://www.radioelectronica.es/articulos-teoricos/200-las-leyes-de-kirchhoff
@@ -156,31 +121,10 @@ radio electronica. (s.f.). Recuperado el 01 de Junio de 2020, de http://www.radi
 * wikipedia. (20 de Noviembre de 2018). Wikipedia. (Fundación Wikimedia, Inc) Recuperado el 01 de Junio de 2020, de https://es.wikipedia.org/wiki/Leyes_de_Kirchhoff
 
 
-13. ANEXOS 
+11. ANEXOS 
 
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos3.jpeg)
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos2.jpeg)
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos.jpeg)
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/C%C3%A1lculos1.jpeg)
 
-
-14. MANUAL DE USUARIO 
-
-##### Que es TinkerCAD y cómo funciona 
-
-Tinkercad es una herramienta online ofrecida por Autodesk. Se utiliza de forma gratuita y sólo requiere crearse una cuenta de usuario. De entre sus utilidades, probablemente la más conocida es la de diseñar piezas en 3D. Sin embargo, ofrece también una posibilidad realmente interesante y es la de montar, programar y simular circuitos con Arduino.
-Para ello, deberemos crearnos una cuenta de usuario y acceder. Seleccionando la opción “Circuits” podremos empezar a crear nuestros circuitos clicando sobre “Create new Circuit”:
-
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Manual%20de%20usuario.jpg)
-
-Tinkercad asignará a nuestro nuevo proyecto un nombre por defecto (Tremendous Turing) y ofrece una serie de componentes en la parte derecha de la pantalla.
-
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Manual%20de%20usuario%202.jpg)
-
-
-El cuadro de selección nos ofrece las opciones “Basic” y “All”, según queramos componentes elementales o de uso más común como pulsadores, Leds, resistencias fijas, potenciómetros, baterías, transistores, placas de prototipado etc. u opciones más avanzadas como circuitos integrados, osciloscopios, control remoto o tiras de Leds.
-
-Sea cual sea la opción, clicando sobre el componente y arrastrándolo al área de trabajo podremos ir ensamblando nuestros circuitos. Además, podremos nombrar cada componente y cambiar ciertas características, tales como valores, color etc.
-
-
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Manual%20de%20usuario%203.jpg)
