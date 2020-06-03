@@ -78,7 +78,7 @@ La segunda ley de Kirchhoff indica que la suma algebraica de todos los voltajes 
 El hecho de que se refiera a la suma algebraica implica el cuidado de las polaridades de las fuentes de energía, así como los signos de las caídas de tensión sobre cada componente eléctrico del circuito.
 Por ende, al momento de aplicar esta ley hay que ser muy precavidos en el sentido de circulación de la corriente y, en consecuencia, con los signos de los voltajes contenidos dentro de la malla.
 
-4. LISTA DE COMPONENTES 
+4. MATERIALES Y EQUIPOS 
 
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Tabla%20de%20Componentes.jpg) 
 
