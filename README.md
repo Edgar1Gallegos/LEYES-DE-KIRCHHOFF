@@ -29,7 +29,7 @@ Elementos pasivos: Son los elementos de un circuito que consumen energía. Son e
 
 Nudo: Punto de un circuito donde concurren más de dos conductores
 
-Rama: Conjunto de todos los elementos comprendido entre dos nudos consecutivos
+Rama: Conjunto de todos los elementos comprendido entre dos nodos consecutivos
 
 Malla: Conjunto de ramas que forman un camino cerrado en un circuito, que no puede subdividirse en otros ni pasar dos veces por la misma rama
 
