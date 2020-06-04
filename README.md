@@ -150,7 +150,13 @@ Para la descripción de los equipos empleados véase hojas técnicas.
 
 * Colocar de manera correcta los elementos en los pines de la protoboard para no interferir en los calculos, diferencias los cables tanto positivo y negativo en color rojo y negro respectivamente.
 
-11. BIBLIOGRAFÍA 
+11. CRONOGRAMA
+
+Actividadades desarrolladas a lo largo de la practica de laboratorio.
+
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Cronograma.png)
+
+12. BIBLIOGRAFÍA 
 
 * Matthew N.O.Sadiku, C. K. (2006). Fundamentos de circuitos eléctricos. McGraw-Hill Interamericana.
 radio electronica. (s.f.). Recuperado el 01 de Junio de 2020, de http://www.radioelectronica.es/articulos-teoricos/200-las-leyes-de-kirchhoff
