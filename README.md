@@ -88,13 +88,13 @@ Circuito Electrico hecho en Tinkercad
 
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Circuito%20acabado.png)
 
-5. MATERIALES Y EQUIPOS 
+5. LISTAS DE COMPONENTES
 
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Tabla%20de%20Componentes.jpg) 
 
 Para la descripción de los equipos empleados véase hojas técnicas.
 
-6. PROCEDIMIENTO  
+6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
 * Abrimos el sitio web "tinkercad" y creamos una cuenta.
 
