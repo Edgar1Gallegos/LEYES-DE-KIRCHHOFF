@@ -82,7 +82,7 @@ Por ende, al momento de aplicar esta ley hay que ser muy precavidos en el sentid
 
 Circuito Electrico
 
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Circuito.jpeg)
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Diagrama%20circuito.jpeg)
 
 Circuito Electrico hecho en Tinkercad
 
