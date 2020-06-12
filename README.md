@@ -123,9 +123,9 @@ Para la descripción de los equipos empleados véase hojas técnicas.
 
 ![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Tabla1.1.jpeg)
 
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Resultados2.jpg)
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Tabla%201.2.jpeg)
 
-![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Resultados3.jpg)
+![](https://github.com/Edgar1Gallegos/LEYES-DE-KIRCHHOFF/blob/master/img/Tabla%201.3.jpeg)
 
 8. ANÁLISIS DE RESULTADOS
 
